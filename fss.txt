@@ -1,0 +1,14 @@
+Film Seçiniz,Seans Seçiniz,Salon Seçiniz
+Avengers: Sonsuzluk Savaþý,12.00,Salon 1
+
+Avengers: Sonsuzluk Savaþý,14.00,Salon 1
+
+Rampage: Büyük Yýkým,16.00,Salon 2
+
+Rampage: Büyük Yýkým,18.00,Salon 4
+
+Cici Babam,20.00,Salon 4
+
+Ailecek Þaþkýnýz,12.00,Salon 3
+Avengers: Sonsuzluk Savaþý,12.00,Salon 1
+
